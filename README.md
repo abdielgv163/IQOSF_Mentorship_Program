@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/OVjRdZM.png)
 
-## Task 1 ##
-
-### Abdiel Guerrero v. ###
+<div align=center>
+    <h1>Task 1</h1>
+  <h2>Abdiel Guerrero v.</h2>
+</div>
